@@ -61,26 +61,6 @@ Fundamentos de IA e Machine Learning · Aplicações com IA · Integração de A
 
 ---
 
-## Projetos em destaque
-
-### [Fabio Importes](https://github.com/edvaldoalves7/fabio-importes)
-Sistema web de gestão comercial e controle de estoque, desenvolvido em equipe na faculdade. API REST em **Java com Spring Boot**, banco **SQLite**, login com senha protegida por hash, controle de estoque que impede saldo negativo, relatórios e exportação em CSV.<br>
-`Java` `Spring Boot` `SQLite` `JavaScript`
-
-### [Amigo Secreto](https://github.com/edvaldoalves7/amigo-secreto-) · [ver online](https://edvaldoalves7.github.io/amigo-secreto-/)
-Página para organizar sorteios de amigo secreto. Quem organiza cadastra os participantes e faz o sorteio, e cada pessoa recebe um código para descobrir quem tirou, sem que o organizador veja os resultados.<br>
-`HTML` `CSS` `JavaScript`
-
-### [GrátisFlix](https://github.com/edvaldoalves7/projeto-Gr-tisflix) · [ver online](https://edvaldoalves7.github.io/projeto-Gr-tisflix/)
-Página inspirada em plataformas de streaming, com tela de introdução animada e catálogo de filmes montado com JavaScript. Projeto desenvolvido com apoio de IA.<br>
-`HTML` `CSS` `JavaScript`
-
-### [Ana Artesanato](https://github.com/edvaldoalves7/ana.artesanato.) · [ver online](https://edvaldoalves7.github.io/ana.artesanato./)
-Site institucional feito para o negócio de artesanato da minha mãe, com a história da loja e fotos do espaço.<br>
-`HTML` `CSS`
-
----
-
 ## Certificados
 
 **7 certificados** em Segurança Cibernética, Programação e Inteligência Artificial, de instituições como **IBSEC**, **DIO** e **UNIESP**.
