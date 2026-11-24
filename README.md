@@ -15,32 +15,26 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação na UNIESP** e estou no começo da minha trajetória em tecnologia. Tenho conhecimentos básicos em **Java** e **Python** e desenvolvo projetos práticos para aprender: sites, aplicações web e um sistema de gestão em **Java com Spring Boot**, feito em equipe na faculdade.
+Sou estudante de **Ciência da Computação na UNIESP** e estou construindo minha trajetória em Tecnologia da Informação. Aprendo na prática, desenvolvendo projetos próprios e acadêmicos, como um sistema de gestão em **Java com Spring Boot** feito em equipe na faculdade.
 
-Uso ferramentas de **Inteligência Artificial** no dia a dia para estudar, entender código, encontrar erros e testar ideias, sempre revisando e testando o resultado.
-
-Meu objetivo agora é conseguir um **estágio em TI**, onde eu possa aprender com uma equipe e contribuir com projetos reais.
+Uso ferramentas de **Inteligência Artificial** como apoio nos estudos e no desenvolvimento: para entender código, encontrar erros e testar soluções, sempre revisando o resultado.
 
 ---
 
 ## Áreas de interesse
 
-Áreas que estou estudando e nas quais quero construir minha carreira:
-
 **🔐 Segurança Cibernética**<br>
-Segurança de aplicações e segurança web · Ethical Hacking · OWASP · Análise de vulnerabilidades
+Segurança de aplicações · Segurança web · Análise de vulnerabilidades · Ethical Hacking
 
 **💻 Desenvolvimento de Software**<br>
-Java e Python · Desenvolvimento back-end · APIs e integração com bancos de dados
+Java · Python · Back-end · APIs · Bancos de dados
 
 **🤖 Inteligência Artificial**<br>
-Fundamentos de IA e Machine Learning · Aplicações com IA · Integração de APIs e modelos de IA · Automação
+Aplicações com IA · Integração de modelos · Automação inteligente · Machine Learning
 
 ---
 
-## Tecnologias
-
-**Que já usei em projetos**
+## Tecnologias que já usei em projetos
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
@@ -52,12 +46,24 @@ Fundamentos de IA e Machine Learning · Aplicações com IA · Integração de A
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
 
+---
+
+## Estudos e aprendizados
+
 **Estudando agora**
 
-![Spring Boot](https://img.shields.io/badge/Java_e_Spring_Boot-1F6FEB?style=flat-square)
+![Java e Spring Boot](https://img.shields.io/badge/Java_e_Spring_Boot-1F6FEB?style=flat-square)
 ![OWASP](https://img.shields.io/badge/Seguran%C3%A7a_web_(OWASP)-1F6FEB?style=flat-square)
 ![IA](https://img.shields.io/badge/Fundamentos_de_IA-1F6FEB?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-1F6FEB?style=flat-square&logo=linux&logoColor=white)
+
+**Plano de estudos para as férias**
+
+| Curso | Conteúdo | Status |
+|---|---|:---:|
+| [CS50x – Harvard](https://cs50.harvard.edu/x/) | Fundamentos da computação, algoritmos, estruturas de dados, C, Python, SQL e web | 🔜 Planejado |
+| [Microsoft Learn](https://learn.microsoft.com/training/) | Computação em nuvem, Azure, IA, segurança e desenvolvimento | 🔜 Planejado |
+| [AWS Skill Builder](https://skillbuilder.aws/) | Cloud computing, EC2, S3, IAM e segurança na nuvem | 🔜 Planejado |
 
 ---
 
@@ -69,6 +75,14 @@ Fundamentos de IA e Machine Learning · Aplicações com IA · Integração de A
 
 ---
 
+## Objetivo para 2027
+
+Conquistar meu **primeiro estágio em TI**, aplicando o que venho estudando e ganhando experiência em um ambiente profissional. Tenho interesse em oportunidades em:
+
+**Desenvolvimento de Software** · **Suporte de TI** · **Segurança da Informação** · **Inteligência Artificial**
+
+---
+
 <p align="center">
-  Aberto a oportunidades de <b>estágio em TI</b> · Gurinhém, Paraíba
+  Gurinhém, Paraíba · Aberto a oportunidades de estágio
 </p>
