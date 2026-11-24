@@ -19,6 +19,8 @@ Sou estudante de **Ciência da Computação na UNIESP** e estou construindo minh
 
 Uso ferramentas de **Inteligência Artificial** como apoio nos estudos e no desenvolvimento: para entender código, encontrar erros e testar soluções, sempre revisando o resultado.
 
+Também faço um **curso de inglês** para desenvolver minha comunicação no idioma, essencial na área de tecnologia.
+
 ---
 
 ## Áreas de interesse
@@ -56,6 +58,7 @@ Aplicações com IA · Integração de modelos · Automação inteligente · Mac
 ![OWASP](https://img.shields.io/badge/Seguran%C3%A7a_web_(OWASP)-1F6FEB?style=flat-square)
 ![IA](https://img.shields.io/badge/Fundamentos_de_IA-1F6FEB?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-1F6FEB?style=flat-square&logo=linux&logoColor=white)
+![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-1F6FEB?style=flat-square)
 
 **Plano de estudos para as férias**
 
