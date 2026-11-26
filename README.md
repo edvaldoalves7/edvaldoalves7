@@ -77,15 +77,3 @@ Aplicações com IA · Integração de modelos · Automação inteligente · Mac
 ➡️ [Ver todos os certificados](https://github.com/edvaldoalves7/certificados)
 
 ---
-
-## Objetivo para 2027
-
-Conquistar meu **primeiro estágio em TI**, aplicando o que venho estudando e ganhando experiência em um ambiente profissional. Tenho interesse em oportunidades em:
-
-**Desenvolvimento de Software** · **Suporte de TI** · **Segurança da Informação** · **Inteligência Artificial**
-
----
-
-<p align="center">
-  Gurinhém, Paraíba · Aberto a oportunidades de estágio
-</p>
