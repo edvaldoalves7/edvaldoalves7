@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação na UNIESP** e estou construindo minha trajetória em Tecnologia da Informação. Aprendo na prática, desenvolvendo projetos próprios e acadêmicos, como um sistema de gestão em **Java com Spring Boot** feito em equipe na faculdade.
+Sou estudante de **Ciência da Computação na UNIESP** e estou construindo minha trajetória em Tecnologia da Informação. Aprendo na prática, desenvolvendo projetos próprios e acadêmicos.
 
 Uso ferramentas de **Inteligência Artificial** como apoio nos estudos e no desenvolvimento: para entender código, encontrar erros e testar soluções, sempre revisando o resultado.
 
